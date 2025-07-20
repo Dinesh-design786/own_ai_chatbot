@@ -1,2 +1,3 @@
 # own_ai_chatbot
 A custom AI chatbot built using Google Gemini API, designed for personalized conversational experiences. Supports text-based interaction, natural language understanding, and customizable personality traits. Built with Python and Streamlit for an interactive web interface.
+This project is a personalized AI chatbot interface powered by Google's Gemini API. It provides real-time conversational responses similar to ChatGPT or Bard. Ideal for personal productivity, learning assistance, or customer service mockups. The interface is built using Streamlit and supports environment setup via Python virtual environments.
